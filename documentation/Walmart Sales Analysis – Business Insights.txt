@@ -1,0 +1,26 @@
+
+Project Summary
+
+This project analyzes Walmart's weekly sales data using MySQL for data analysis and Power BI for visualization. The objective is to identify sales trends, evaluate store performance, and provide actionable business insights.
+
+Key Insights
+Total sales exceeded 6.7 Billion across all stores.
+Store 20 recorded the highest overall sales.
+Sales varied significantly across different stores.
+Non-Holiday weeks generated higher total revenue than Holiday weeks.
+Sales showed noticeable seasonal fluctuations.
+The Top 10 stores contributed a major share of total sales.
+Fuel Price showed a weak relationship with Weekly Sales.
+Temperature had minimal impact on overall sales.
+Yearly sales remained relatively stable between 2010 and 2012.
+Interactive dashboard enables filtering by Year, Store, Month, and Holiday Flag.
+Business Recommendations
+Increase inventory before high-demand periods.
+Focus promotional campaigns on low-performing months.
+Replicate successful strategies from top-performing stores.
+Monitor underperforming stores to improve operational efficiency.
+Continue tracking sales trends for better forecasting.
+
+Conclusion
+
+The project demonstrates how SQL and Power BI can be used together to clean data, answer business questions, and build interactive dashboards that support data-driven decision-making.
